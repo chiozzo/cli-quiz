@@ -1,0 +1,16 @@
+* {
+  font-family: Arial;
+}
+
+body {
+  width: 65%;
+}
+
+body > section > p {
+  display: block;
+  font-family: Tahoma;
+}
+
+sidebar {
+  width: 30%;
+}
